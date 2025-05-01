@@ -545,7 +545,7 @@ mini2.MouseButton1Click:Connect(function()
 end)
 end)
 
-Section:NewButton("Невидимаст", "ButtonInfo", function()
+Section:NewButton("Невидимаст на X", "ButtonInfo", function()
     local key = Enum.KeyCode.X -- key to toggle invisibility
 
 --// dont edit script below
